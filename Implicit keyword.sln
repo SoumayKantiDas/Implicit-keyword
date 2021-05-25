@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implicit keyword", "Implicit keyword\Implicit keyword.csproj", "{9C239897-A1B5-47ED-B079-B24370597565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C239897-A1B5-47ED-B079-B24370597565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C239897-A1B5-47ED-B079-B24370597565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C239897-A1B5-47ED-B079-B24370597565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C239897-A1B5-47ED-B079-B24370597565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E92013B0-D045-4CF1-8094-310F8C63DA9F}
+	EndGlobalSection
+EndGlobal
